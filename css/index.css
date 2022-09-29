@@ -1,6 +1,9 @@
 /* body {
     background: #ecedf3;
 } */
+.text{
+    text-align: justify;
+}
 
 a {
     color: black;
